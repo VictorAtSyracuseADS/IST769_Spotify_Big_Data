@@ -20,11 +20,6 @@ from spotipy.oauth2 import SpotifyClientCredentials
 ccm = SpotifyClientCredentials(client_id = cid, client_secret = secret)
 sp = spotipy.Spotify(client_credentials_manager = ccm)
 
-os.environ["SPOTIPY_CLIENT_ID"] = cid
-os.environ["SPOTIPY_CLIENT_SECRET"] = secret
-os.environ["SPOTIPY_REDIRECT_URI"] = "https://localhost:8080"
-
-
 # Function to get the top playlist for each country
 # Get the country names from the data dictionary file "countries.py"
 
