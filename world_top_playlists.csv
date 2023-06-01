@@ -1,0 +1,31 @@
+country_code,country,playlist_id,top_playlist_name,artist,track_name,track_id,popularity,key,tempo,time_signature,valence,liveness,energy,danceability,loudness,speechiness,acousticness,instrumentalness,tempo_normalized
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,David Kushner,Daylight,1odExI7RdWc4BT515LTAwj,97,2,130.09,4,0.324,0.093,0.43,0.508,-9.475,0.0335,0.83,0.000441,0.12
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Tom Odell,Another Love,3JvKfv6T31zO0ini8iNItO,92,4,122.769,4,0.131,0.0944,0.537,0.445,-8.532,0.04,0.695,1.65e-05,0.38
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,d4vd,Romantic Homicide,1xK59OXxi2TAAAbmZK0kBL,91,6,132.052,4,0.216,0.322,0.544,0.571,-10.613,0.0299,0.453,0.00805,0.62
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Lizzy McAlpine,ceilings,2L9N0zZnd37dwF0clgxMGI,90,9,148.005,3,0.261,0.215,0.322,0.516,-11.762,0.0292,0.473,0.00194,1.0
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Billie Eilish,lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,90,4,115.284,4,0.12,0.095,0.296,0.351,-10.109,0.0333,0.934,0.0,0.38
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Labrinth,Never Felt So Alone,2NbsBSshscKIPRG3kwBbfo,88,5,98.357,3,0.363,0.38,0.409,0.436,-4.438,0.0533,0.499,0.000166,0.5
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Conan Gray,Heather,4xqrdfXkTW4T0RauPLv3WA,88,5,102.078,3,0.27,0.322,0.425,0.357,-7.301,0.0333,0.584,0.0,0.5
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Olivia Rodrigo,traitor,5CZ40GBx1sQ9agT82CLQCT,87,3,100.607,4,0.0849,0.12,0.339,0.38,-7.885,0.0338,0.691,0.0,0.25
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Alec Benjamin,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,86,1,150.073,4,0.483,0.124,0.557,0.652,-5.714,0.0318,0.74,0.0,0.0
+NZ,New Zealand,37i9dQZF1DWYfVqUciU2jI,sad song club,Joji,Glimpse of Us,6xGruZOHLs39ZbVccQTuPZ,86,8,169.914,3,0.268,0.141,0.317,0.44,-9.258,0.0531,0.891,4.78e-06,0.88
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,d4vd,Romantic Homicide,1xK59OXxi2TAAAbmZK0kBL,91,6,132.052,4,0.216,0.322,0.544,0.571,-10.613,0.0299,0.453,0.00805,0.67
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,The Kid LAROI,STAY (with Justin Bieber),5HCyWlXZPP0y6Gqq8TgA20,87,1,169.928,4,0.478,0.103,0.764,0.591,-5.484,0.0483,0.0383,0.0,0.11
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,Juice WRLD,All Girls Are The Same,4VXIryQMWpIdGgYR4TrjT1,87,0,161.989,4,0.203,0.0856,0.529,0.671,-7.226,0.307,0.0769,0.000335,0.0
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,Lil Peep,Star Shopping,6Ox1rvlwEpB49drasQm6RF,86,4,93.07,4,0.307,0.116,0.471,0.538,-9.84,0.0955,0.0946,0.0185,0.44
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,XXXTENTACION,Hope,2ZRo7axmMPeSVUvDbGkJah,86,9,146.04,4,0.225,0.146,0.457,0.592,-6.081,0.0603,0.661,0.000331,1.0
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,Playboi Carti,Sky,29TPjc8wxfz4XMn21O7VsZ,84,2,139.98,4,0.565,0.169,0.903,0.785,-4.184,0.21,0.258,0.0,0.22
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,Lithe,Facade,2fGiuK2cJ2efll99JN0mu5,57,8,136.978,4,0.24,0.111,0.177,0.675,-14.643,0.0615,0.857,0.484,0.89
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,RØNIN,HURT SO BAD,61UW1ahvPB6hxLPxjM2VoK,48,7,200.218,4,0.345,0.188,0.477,0.336,-7.395,0.0649,0.586,1.06e-06,0.78
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,Ouse,not her,4BgCQQxlVqwTM2WmFtvVqB,45,0,135.053,4,0.13,0.106,0.392,0.568,-11.061,0.158,0.7,2.6e-05,0.0
+ES,Australia,37i9dQZF1DXbQm6Guuzt5a,sadboi hours,Zai1k,For You,4xdt5NCPEgprn33MOLXhOx,42,5,87.947,4,0.182,0.106,0.421,0.576,-8.342,0.0952,0.11,0.0,0.56
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,Libianca,People,26b3oVLrRUaaybJulow9kz,93,10,124.357,5,0.693,0.102,0.422,0.573,-7.621,0.0678,0.551,1.31e-05,0.91
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,RAYE,Escapism.,5mHdCZtVyb4DcJw8799hZp,91,2,96.107,4,0.25,0.0934,0.742,0.538,-5.355,0.114,0.138,4.67e-05,0.18
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,SZA,Kill Bill (feat. Doja Cat),0CrcwVLUe8wzLUIXgjXVZJ,84,5,89.021,4,0.451,0.194,0.744,0.629,-6.124,0.0409,0.0769,0.247,0.45
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,Brent Faiyaz,ALL MINE,3XgGQ1wjo5khvq2UImjyNF,83,9,141.967,4,0.22,0.11,0.378,0.617,-8.54,0.0315,0.428,9.16e-05,0.82
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,Kali Uchis,Fantasy (feat. Don Toliver),1dvqHhLNccePPBHq11TW7v,76,10,104.036,4,0.188,0.141,0.684,0.641,-6.119,0.0476,0.129,0.000288,0.91
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,Giveon,Lost Me,6TSO4hwz9WGrEUY7ABGVim,76,2,87.934,4,0.2,0.219,0.443,0.428,-8.955,0.101,0.525,1.76e-05,0.18
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,teo glacier,close with desires,1yUO5lVnOstziQEz7byXBx,63,11,130.079,3,0.48,0.114,0.436,0.665,-8.076,0.0421,0.318,1.1e-05,1.0
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,PANIA,ALL MINE,0xoEZgqN7bQZ21wbTfFru2,41,9,66.833,4,0.305,0.0984,0.489,0.581,-6.374,0.0555,0.466,0.0,0.82
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,JONO.,WHERE DID YOU GO? [SLOWED + REVERBED],3dxSbg7GQJroVLMpgVZt6j,36,2,106.045,4,0.311,0.17,0.621,0.568,-7.559,0.0349,0.15,2.01e-06,0.18
+AU,Spain,37i9dQZF1DX6GYkg76TRV8,R&B Feels,Forest Claudette,Two Years,1j7zUafZKVFHX4o8LbwaP9,31,0,90.443,4,0.266,0.242,0.42,0.682,-9.096,0.0561,0.282,0.0,0.0
