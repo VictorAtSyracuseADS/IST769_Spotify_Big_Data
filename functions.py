@@ -9,7 +9,6 @@ from time import sleep
 # Credentials and custom functions
 from auth import *
 from countries_list import countries
-from keys import key_list
 
 # API dependencies
 import spotipy
